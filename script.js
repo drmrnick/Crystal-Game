@@ -1,0 +1,2 @@
+alert("fuckyou");
+alert("fuckoff");
